@@ -1,0 +1,6 @@
+/carton_data
+/checkpoints
+/.logs
+.venv
+
+__pycache__
