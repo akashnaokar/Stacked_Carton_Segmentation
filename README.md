@@ -1,4 +1,4 @@
-# Carton Instance Segmentation with Mask R-CNN
+# <p style="text-align:center;"> Carton Instance Segmentation with Mask R-CNN </p>
 
 ![Carton Segmentation](carton_predictions.png)
 
@@ -165,19 +165,19 @@ If data loading is causing problems:
 
 ## License
 
-[Specify your license here]
+[MIT License](LICENSE)
 
 ## Acknowledgements
 
 - This implementation uses PyTorch and torchvision's Mask R-CNN implementation
-- [Any other acknowledgements]
+- This implementation uses [SCD: A Stacked Carton Dataset for Detection and Segmentation](https://github.com/yancie-yjr/scd.github.io)
 
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```
-@software{carton_segmentation,
+@misc{carton_segmentation,
   author = {Akash Naokar},
   title = {Carton Instance Segmentation},
   year = {2025},

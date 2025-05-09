@@ -1,6 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+#Byte-compiled
+__pycache__/
+
+# Data directories, model-weights and results
 /carton_data
 /checkpoints
-/.logs
-.venv
+/evaluation_results
 
-__pycache__
+# Point cloud files
+*.pcd
+
+# Log files
+/.logs
+
+# Custom files
