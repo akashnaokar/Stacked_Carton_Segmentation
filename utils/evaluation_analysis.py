@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import json
 from tqdm import tqdm
-from iou_utils import calculate_iou
+from utils.iou_utils import calculate_iou
 
 def generate_confusion_matrix(model, data_loader, config):
     """Generate confusion matrix for the model predictions"""

@@ -1,0 +1,21 @@
+# Core deep learning libraries
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+numpy
+scikit-image
+opencv-python
+Pillow
+imageio
+
+# COCO evaluation tools
+pycocotools
+
+# Config and data handling
+pyyaml
+
+# Visualization and utilities
+matplotlib
+tqdm
+tensorboard
